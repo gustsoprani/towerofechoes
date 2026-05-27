@@ -1,0 +1,4 @@
+Nota: Os assets visuais originais deste projeto (spritesheets e tilesets) 
+foram adquiridos sob licença de uso restrito e não estão inclusos neste repositório 
+público. O código-fonte está preservado para fins de demonstração de arquitetura 
+e lógica.
