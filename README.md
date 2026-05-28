@@ -118,7 +118,7 @@ Para inspecionar a estrutura do bundler e a lógica:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/gustsoprani/towerofechoes.git](https://github.com/gustsoprani/towerofechoes.git)
+   git clone https://github.com/gustsoprani/towerofechoes.git
    ```
 2. Instale as dependências (Phaser e Vite):
    ```bash
