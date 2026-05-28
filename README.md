@@ -24,7 +24,7 @@ Como o tempo de desenvolvimento era restrito, a equipe optou por focar 100% no p
 Projeto construído pelo trio:
 * **[Gustavo](https://github.com/gustsoprani)**
 * **[Tárcio](https://github.com/tarciofernandes14)**
-* **[Marcos]**
+* **[Marcos](https://github.com/MarcosBrunetti)**
 
 ---
 
